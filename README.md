@@ -2,7 +2,7 @@
 
 ReconHunter is a comprehensive bash script designed for bug bounty hunters and penetration testers to automate reconnaissance of a target domain.
 
-Developed by **Lakshay** and **Mansi**, this tool aggregates subdomains, performs DNS resolution, probes for HTTP services, collects archived URLs, discovers URL parameters, performs optional directory fuzzing, and scans for known vulnerabilities using Nuclei.
+This tool aggregates subdomains, performs DNS resolution, probes for HTTP services, collects archived URLs, discovers URL parameters, performs optional directory fuzzing, and scans for known vulnerabilities using Nuclei.
 
 ---
 
@@ -99,6 +99,13 @@ recon_example.com/
 - Directory bruteforcing is optional and can be commented/uncommented as needed.
 - Use only on domains you have explicit permission to test.
 
+---
+
+## 📝 Authors
+
+This tool is developed by the team of two people :-
+- [Mansi Singh](https://github.com/mansi-1204)
+- [Lakshay Bhatnagar](https://github.com/lakshay-bhatnagar)
 ---
 
 ## 📃 License
